@@ -1,2 +1,2 @@
-# Data-Diri-HTML
+# Workshop - Front End
 Profil Pribadi
